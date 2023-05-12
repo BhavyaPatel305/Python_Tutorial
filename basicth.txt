@@ -1,0 +1,30 @@
+programming language
+scripting language
+compiler (or interpreter)
+
+please justify the statement. that python is dynamically typed language.
+int x;
+
+variable declaration rules in python:
+1. variable name should start with alphabet or underscore.
+2. variable name can contain alphabets, numbers and underscore.
+3. variable name is case sensitive.
+4. variable name should not be a keyword.
+5. variable name should not be a built-in function name.
+6. variable name should not be a built-in module name.
+
+
+operator:
+defination: operator is a symbol that performs an operation on one or more operands.
+operators in python:
+1. arithmetic operator (+, -, *, /, %, //, **)
+2. relational operator (==, !=, >, <, >=, <=)
+3. logical operator (and, or, not)
+4. bitwise operator (&, |, ^, ~, <<, >>)
+5. assignment operator (=, +=, -=, *=, /=, %=, //=, **=, &=, |=, ^=, ~=, <<=, >>=)
+6. membership operator (in, not in)
+7. identity operator (is, is not)
+
+
+
+
