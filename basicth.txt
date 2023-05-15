@@ -26,5 +26,25 @@ operators in python:
 7. identity operator (is, is not)
 
 
+decision making statements:
+1) if else statement
+
+    if any condition:
+    excute this block of code
+    else:
+    excute this block of code
+
+ledder if else...
+
+if 1stcondition
+    exc
+elif 2ndcondition
+    exc
+elif 3rdcondition
+    exc
+else:
+    exc    
+
+2) loop
 
 
