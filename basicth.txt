@@ -45,6 +45,31 @@ elif 3rdcondition
 else:
     exc    
 
-2) loop
+
+logical operator : and, or, not
+
+52 4
+no  > 50 and no % 2 ==0
+
+true   true  that
+fasle  -   fasle
+tree   fasle fasle
+
+
+
+53
+no  > 50 or no % 2 ==0
+
+t   -    t
+f   t   t
+f  f   f
+
+
+
+
+
+2) loop :
+
+
 
 

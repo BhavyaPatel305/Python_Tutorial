@@ -1,0 +1,12 @@
+entry control loop
+    for loop while
+    // intialization, condition, increment/decrement
+    for (int i = 0; i < 10; i++) {
+     
+    }
+
+while...
+
+exit control loop
+
+    ????
