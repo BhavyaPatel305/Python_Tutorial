@@ -7,6 +7,9 @@ users.extend(["manan","mehul","mohit"])
 
 print(users)
 
+ind = users.index("ram")
+print("index is ",ind)
+
 #pop is overloded function
 # rmvelm = users.pop()
 # removedelm = users.pop(3)
