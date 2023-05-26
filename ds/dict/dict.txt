@@ -1,0 +1,8 @@
+# dict stores value in key value pair
+# dict is mutable
+# dict is ordered
+# dict is iterable
+# dict is dynamic
+# dict is heterogeneous
+# dict is unindexed
+

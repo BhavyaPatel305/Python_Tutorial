@@ -1,0 +1,2 @@
+one tram can have 5 players and you need to add score of all player
+and check which team is going to win
