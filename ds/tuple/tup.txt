@@ -1,0 +1,2 @@
+tuple is collecion of different data types
+tuple is immutable

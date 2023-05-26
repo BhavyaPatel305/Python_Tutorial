@@ -1,0 +1,8 @@
+lang = ("Hindi", "English", "Sanskrit","French")
+print(lang)
+langlist = list(lang)
+print(langlist)
+print(type(langlist))
+langlist.append("Spanish")
+lang = tuple(langlist)
+print(lang)
