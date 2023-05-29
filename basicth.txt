@@ -73,3 +73,25 @@ f  f   f
 
 
 
+list []
+tuple () -->indexing
+dictionary {} ->key value pair
+
+set :
+1. set is a collection of unique elements.
+2. set is mutable.
+3. set is unordered.
+4. set is unindexed.
+5. set does not support slicing.
+6. set is represented by {}.
+7. set does not support duplicate elements.
+8. set is iterable.
+9. set is heterogeneous.
+10. set is dynamic.
+11. set is not hashable.
+12. set is not nested.
+13. set is not sequence.
+14. set is not subscriptable. list[0]
+15. set is not sortable.
+16. set is not comparable.
+
