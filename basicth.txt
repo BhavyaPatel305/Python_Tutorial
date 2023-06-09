@@ -141,7 +141,13 @@ list --> param, "user1"
 
 updated list
 
+function ==> students sname with his/her marks --> return student name who is having highest marks.
 
+
+
+accept list as param and reverse all elements of list and return updated list.
+[12,45]
+[11,54]
 
 
 

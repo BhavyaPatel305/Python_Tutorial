@@ -1,0 +1,3 @@
+def function name....
+lambda function is an anonymous function, which means that it has no name. 
+It is defined with the keyword lambda, followed by a comma-separated list of zero or more arguments, followed by the colon and the expression to evaluate and return.
