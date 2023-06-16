@@ -1,0 +1,38 @@
+oops :
+
+    4 piller of oops :
+    encapsulation
+        class, object, method, variable, constructor,
+    abstraction
+        interface, abstract class
+    inheritance
+        
+    polymorphism
+        overloading, overriding
+
+class: class is a blueprint of object, class is a collection of objects, 
+class is a logical entity
+
+object : object is a an entity of class
+
+is a  has a
+class  object
+Friut   apple
+Vehicle car
+Animal  dog
+Student  ram
+
+---------------
+encapsulation: binding of data and method together is called encapsulation
+
+Hospital :  paitent, doctor, staff
+
+
+
+
+
+
+
+
+
+
