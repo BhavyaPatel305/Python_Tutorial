@@ -27,6 +27,38 @@ encapsulation: binding of data and method together is called encapsulation
 
 Hospital :  paitent, doctor, staff
 
+inheritance:
+-----------
+child class can use prop of parent class, this process is called inheritance,
+but parent class can not use prop of child class
+use:-code reusability
+
+type:
+    single
+            a -> b
+    multilevel
+            a -->b -->c -->d
+    multiple
+            a 
+          b   c
+
+          x  y
+            z
+           
+
+
+
+    hierarchical
+            a
+        b        c
+     p     q  m     n     
+
+    hybrid
+        no pattern
+        a --> 10 child class --> 2 each chid
+
+
+
 
 
 
