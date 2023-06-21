@@ -1,0 +1,17 @@
+polymorephisam simple mean having many forms of
+
+Shape funcition ---> rec
+shape --> circle
+
+2 type of polymorphism
+1. compile time polymorphism
+    funcition overloading
+
+    function name same but argument different
+    shape(a)
+    shape(a,b)
+    shape(a,b,c)
+    shape(a,b,c,d)
+
+2. run time polymorphism
+    funcition overriding
