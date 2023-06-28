@@ -1,0 +1,6 @@
+modes:-
+r = read
+w = write
+a = append
+w+ = read and write
+a+ = read and append
