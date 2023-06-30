@@ -1,0 +1,37 @@
+exception handling...
+
+error exception
+
+error: errors are the result of a program that is not working correctly. 
+errors can be caused by many things, including the following:
+missing files, incorrect data, 
+incorrect code, hardware 
+failure, and software failure. errors are also called bugs.
+
+
+exception: an exception is an error that occurs 
+at runtime due to an illegal operation during execution.
+
+a = 10
+b = 0
+
+a / b # ZeroDivisionError: division by zero
+
+SyntaxError
+NameError
+TypeError
+KeyError
+ValueError
+AttributeError
+IoError
+ZeroDivisionError
+IndexError
+ImportError
+
+how to handle exceptions in python?
+
+1) try except block
+2) try except else block
+
+
+
