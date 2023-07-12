@@ -10,6 +10,7 @@ print(data)
 #print(df)
 
 filter2 = data["type"]=="batsman"
-print(data.where(filter1 & filter2,inplace=True))
+data.where(filter1 |filter2,inplace=True)
+print(data)
 
 #mi batsmaan gretter than 50 runs
