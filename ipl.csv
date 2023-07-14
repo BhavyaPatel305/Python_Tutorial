@@ -1,10 +1,12 @@
-Name,Team,type
-sachin,mi,batsman
-dhoni,csk,batsman
-watsan,csk,bowler
-cook,rcb,batsman
-pandya,gt,bowler
-kohli,gt,batsman
-watsan,csk,bowler
-sachin,mi,batsman
+Name,Team,type,runs
+sachin,mi,batsman,100
+dhoni,csk,batsman,50
+watsan,csk,bowler,78
+cook,rcb,batsman,90
+pandya,gt,bowler,78
+kohli,gt,batsman,56
+watsan,csk,bowler,45
+sachin,mi,batsman,101
+Nan,mi,batsman,101
+dhoni,csk,Nan,200
 
